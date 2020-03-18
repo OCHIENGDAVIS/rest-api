@@ -1,2 +1,7 @@
-./vscode
-./idea
+.vscode/
+.idea/
+/static-server/static-root/rest_framework/
+/static-server/static-root/admin/
+db.sqlite3
+__pycache__/
+*.pyc
